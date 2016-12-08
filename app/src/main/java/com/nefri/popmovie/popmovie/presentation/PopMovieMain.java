@@ -1,9 +1,11 @@
-package com.nefri.popmovie.popmovie;
+package com.nefri.popmovie.popmovie.presentation;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.nefri.popmovie.popmovie.R;
+
+public class PopMovieMain extends AppCompatActivity {
 
     @Override protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
